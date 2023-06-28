@@ -6,11 +6,11 @@
 
 
 ## Introduction
-In this project, I cleaned, analysed and visualised the dataset containing road accidents recorded in the United Kingdom from 2021 to 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised used Power BI to create measures, which i used in efficent visualisation of the analysed data. This is the breakdown of the flow of the project. 
+In this project, I cleaned, analysed and visualised the dataset containing employee records in a company in the year 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised used Power BI to create measures, which i used in efficent visualisation of the analysed data. This is the breakdown of the flow of the project. 
 
 ## Data Used
 
-**Data -** Road accidents in United Kingdom data with over 300,000 rows from 2021 to 2022.
+**Data -** Employee data in a firm for the year 2022.
 
 **Data Cleaning & Analysis -** Microsoft Excel
 
@@ -18,24 +18,30 @@ In this project, I cleaned, analysed and visualised the dataset containing road 
 
 ## Questions
 
-1. What is the overall trend in the number of road accidents over the years?
-2. Which geographic locations or areas have the highest number of road accidents?
-3. Are there any patterns or trends in the types of vehicles involved in accidents?
-4. Is there a correlation between certain weather conditions (e.g., rain, fog) and the occurrence of accidents?
-5. Can we identify any hotspot areas where accidents are more concentrated?
-6. Are there any notable differences in accident patterns between urban and rural areas?
-7. Are there any particular road types or conditions that are associated with a higher frequency of accidents?
-8. What is the distribution of accident severity levels (e.g., minor, moderate, severe) in the dataset?
+1. What is the gender breakdown of employees in the company?
+2. What is the age distribution of employees in the company?
+3. What is the average length of employment for employees who have been terminated?
+4. What is the education and training level of employees?
+5. What is the work-life balance of employees?
+6. What is the satisfaction level of employees?
+7. Marital status of employees?
+8. Commuting distance of employees?
+9. How many employees work overtime?
 
 ## Findings
 
-- There are more accidents in Urban areas.
-- Cars had the highest accidents (155,804) while Agro Vehicles had the lowest (399).
-- 2022 had a reduced amount of accidents in comparison to 2021.
-- 73.84% of accidents in the UK happen during the day.
-- There only 2855 fatal casualties in 2022 which was a 33.3% decrease from 2021.
-- Single Carriageway had the highest occurrences of accidents by road type.
+- There are more male employees.
+- 71% of employees rarely go on business trips.
+- 85% of total employees have low perforamce.
+- 893 employees have a good work-life balance compared to 80 employees have a poor work-life balance.
+- Most of the employees in the company are married (401 male, 272 female).
+- 117 employees will be retrenched due to their low performance, despite their long stay in the company.
+- Only 28.3% of total employees work overtime.
+- 64% of employees live close to the office.
+- 72 employees are qualified for a promotion.
+- Most of the employees in the firm are in level 1(543) and 2(534), totalling 1077 employees.
 
 ## Conclusions
 
-Cleaning and analysing this dataset was a rewarding experience. This project has not only deepened my understanding of road safety but also allowed me to enhance my analytical skills. Exploring seasonal variation, identifying intersection hotspots, analyzing driver distraction and speeding trends, addressing vulnerabilities of road users, and studying nighttime accidents have sharpened my ability to extract meaningful patterns from complex datasets. This project showcased my ability to efficently clean and analyse datasets involving real-world challenges.
+The analysis of the employee dataset provided valuable insights into the demographic composition, departmental distribution, performance and satisfaction within the company. These findings contribute to a better understanding of the workforce dynamics and can inform strategic decisions related to recruitment, retention, career development, and fostering a positive work environment. 
+This project aided the enhancement of my analytical skills, specifically my PowerBI skills, I expanded my knowledge and usage of measures, buttons, etc. It furthered my ability to analyze complex datasets and discover meanungful insights for decison making.
