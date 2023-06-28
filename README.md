@@ -44,4 +44,5 @@ In this project, I cleaned, analysed and visualised the dataset containing emplo
 ## Conclusions
 
 The analysis of the employee dataset provided valuable insights into the demographic composition, departmental distribution, performance and satisfaction within the company. These findings contribute to a better understanding of the workforce dynamics and can inform strategic decisions related to recruitment, retention, career development, and fostering a positive work environment. 
+
 This project aided the enhancement of my analytical skills, specifically my PowerBI skills, I expanded my knowledge and usage of measures, buttons, etc. It furthered my ability to analyze complex datasets and discover meanungful insights for decison making.
