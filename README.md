@@ -2,7 +2,7 @@
 
 <img width="728" alt="image" src="https://github.com/Elohorzino-Okpobrisi/HR-Dashboard.github.io/assets/137432456/c2fd20b4-c153-43c7-9579-fff395d03b3d">
 <img width="728" alt="image" src="https://github.com/Elohorzino-Okpobrisi/HR-Dashboard.github.io/assets/137432456/a73c05f4-a4e2-4107-8cb9-04ec047a56b7">
-<img width="749" alt="image" src="https://github.com/Elohorzino-Okpobrisi/HR-Dashboard.github.io/assets/137432456/26b229c7-7e8b-4070-b4eb-4b9b07a53702">
+<img width="728" alt="image" src="https://github.com/Elohorzino-Okpobrisi/HR-Dashboard.github.io/assets/137432456/1d76c9a7-07a7-4372-8448-d3dc2282fa71">
 
 
 ## Introduction
