@@ -6,7 +6,7 @@
 
 
 ## Introduction
-In this project, I cleaned, analysed and visualised the dataset containing employee records in a company in the year 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised used Power BI to create measures, which i used in efficent visualisation of the analysed data. This is the breakdown of the flow of the project. 
+In this project, I cleaned, analysed and visualised the dataset containing employee records in a company in the year 2022. Leveraging on excel, I cleaned and analysed the dataset and after it was satisfactory, I utilised Power BI to create measures, which i used in efficent visualisation of the analysed data. This is the breakdown of the flow of the project. 
 
 ## Data Used
 
